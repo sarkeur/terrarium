@@ -1,4 +1,0 @@
-# Start a script on reboot
-- modify launcher.sh
-- sudo crontab -e
-add a sleep before connecting to mysql
