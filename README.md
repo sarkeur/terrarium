@@ -7,4 +7,6 @@ Let's take the example of a Pogona (lezard). Its natural environment is located 
 # Start a script on reboot
 - modify launcher.sh
 - sudo crontab -e
+- @reboot /home/pi/terrarium/launcher.sh &
+
 add a sleep before connecting to mysql
